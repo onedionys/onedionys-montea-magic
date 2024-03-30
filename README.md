@@ -57,6 +57,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 📆 Release Date
 
 * v1.0.0 : 22 March 2024
+* v1.0.1 : 30 March 2024
 
 ## 🧑 Author
 
