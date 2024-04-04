@@ -1,6 +1,6 @@
 {
   "name": "onedionys-montea-magic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Montea Magic) - A specialized function or application used to check the rankings in tea based on the language used.",
   "main": "postcss.config.js",
   "directories": {
